@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "872367682956",
+    "firebase_url": "https://milkdiary-5f880.firebaseio.com",
+    "project_id": "milkdiary-5f880",
+    "storage_bucket": "milkdiary-5f880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872367682956:android:ea04de9cd0c913ee",
+        "android_client_info": {
+          "package_name": "com.wordpress.nikant20.milkdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872367682956-59c7kjiv0oocmtsi0acj5t8pomgvg21n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgsgXx0UPIh9eMe8mEq7xwxmFDssbTfqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
